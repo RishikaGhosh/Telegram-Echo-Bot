@@ -18,6 +18,6 @@ According to Telegram "Bots are third-party applications that run inside Telegra
   ```
   myvenv\Scrips\activate
   ```
-## Inside bot.py
+## Inside the code
 I decided to build an echo bot cause it seemed to be the easiest thing to make. 
 Mostly I followed the official telegram-bot docs:https://python-telegram-bot.readthedocs.io/en/stable/index.html 
